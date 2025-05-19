@@ -11,7 +11,7 @@
 
 * I am willing to work on free-lance projects and love to contribute to open source projects :bulb:
 
-* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/aadityasingh9601/aadityasingh9601)
+* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/aadityasingh9601/)
 
 * Connect with me on LinkedIn :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/aadityasingh999/) :sparkler:
 
