@@ -13,7 +13,7 @@
 
 * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/aadityasingh9601/aadityasingh9601)
 
-* Connect with me on LinkedIn :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/aadityasingh999/) :sparkler:
+* Connect with me on LinkedIn :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/aadityasingh999/) :sparkler:
 
 
 ## Tech Stack :computer:
@@ -98,7 +98,7 @@
 
 
  
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=aadityasingh9601&show_icons=true&theme=radical)
 
 ## My Certifications :arrow_down:
 
