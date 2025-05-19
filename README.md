@@ -98,7 +98,6 @@
 
 
  
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=aadityasingh9601&show_icons=true&theme=radical)
 
 ## My Certifications :arrow_down:
 
