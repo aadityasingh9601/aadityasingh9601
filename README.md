@@ -91,6 +91,14 @@
         <span><b><center>EJS</center></b></span>
         <img height="60px" src="https://avatars.githubusercontent.com/u/36366664?s=200&v=4">
       </td>
+   <td align="center" width="20%">
+        <span><b><center>Redis</center></b></span>
+        <img height="60px" src="[https://avatars.githubusercontent.com/u/36366664?s=200&v=4](https://tse1.mm.bing.net/th/id/OIP.0gPiT9OKaL5jpr-3oVgFngHaHa?pid=Api&P=0&h=180)">
+      </td>
+    <td align="center" width="20%">
+        <span><b><center>Socket.io</center></b></span>
+        <img height="60px" src="[[https://avatars.githubusercontent.com/u/36366664?s=200&v=4](https://tse1.mm.bing.net/th/id/OIP.0gPiT9OKaL5jpr-3oVgFngHaHa?pid=Api&P=0&h=180)](https://tse2.mm.bing.net/th/id/OIP.KIyvidnjJHQFXMc3_ob3YwHaHa?pid=Api&P=0&h=180)">
+      </td>
     </tr>
   </tbody>
 </table>
