@@ -7,9 +7,9 @@
 
 * I have done multiple projects ranging from the field of Frontend , Backend , WebRTC and Automation using AI. :file_cabinet: .
 
-* I am currently brushing up my skills and planning to learn DevOps.
+* I am currently brushing up my skills and learning DevOps.
 
-* I am willing to work on free-lance projects and love to contribute to open source projects :bulb:
+* I am willing to work on freelance projects and love to contribute to open source projects :bulb:
 
 * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/aadityasingh9601/)
 
