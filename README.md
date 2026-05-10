@@ -1,19 +1,16 @@
-<h1 align="center"> Hello There 👋 </h1>
+<h1 align="center"> Aaditya Singh </h1>
+![Profile Views](https://komarev.com/ghpvc/?username=aadityasingh9601&color=blue&style=flat-square)
 
+* I am a Full-Stack Developer building AI-powered applications.
 
-* I am [Aaditya Singh](https://www.linkedin.com/in/aadityasingh999/) :blush:
+* I have done multiple projects ranging from Frontend, Backend, AI-integration & real-time systems using WebRTC & Web Sockets.
 
-* I am a Full-Stack Developer (MERN & Next.js). :sparkles:.
+* I am currently contributing to open-source & diving deeper into Applied AI.
 
-* I have done multiple projects ranging from the field of Frontend , Backend , WebRTC and Automation using AI. :file_cabinet: .
+* I am open to work on freelance & collaboration projects. 
 
-* I am currently brushing up my skills and learning DevOps.
-
-* I am willing to work on freelance projects and love to contribute to open source projects :bulb:
-
-* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/aadityasingh9601/)
-
-* Connect with me on LinkedIn :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/aadityasingh999/) :sparkler:
+* Connect with me.
+  [LinkedIn](https://www.linkedin.com/in/aadityasingh999) | [X](https://x.com/AadityaSingh771) | [Portfolio](https://aadityasingh.dev) | [Blog](https://blog.aadityasingh.dev)
 
 
 ## Tech Stack :computer:
