@@ -1,6 +1,6 @@
 <h1 align="center"> Aaditya Singh </h1>
 
-[!Profile Views](https://komarev.com/ghpvc/?username=aadityasingh9601&color=blueviolet&style=flat-square)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityasingh9601&label=Profile%20views&color=0e75b6&style=flat" alt="aadityasingh9601" /> </p>
 
 * I am a Full-Stack Developer building AI-powered applications.
 
@@ -10,27 +10,23 @@
 
 * I am open to work on freelance & collaboration projects. 
 
-* Connect with me.
-  [LinkedIn](https://www.linkedin.com/in/aadityasingh999) | [X](https://x.com/AadityaSingh771) | [Portfolio](https://aadityasingh.dev) | [Blog](https://blog.aadityasingh.dev)
+*  [LinkedIn](https://www.linkedin.com/in/aadityasingh999)  |  [X](https://x.com/AadityaSingh771)  |  [Portfolio](https://aadityasingh.dev)  |  [Blog](https://blog.aadityasingh.dev)
+ 
 
 
 ## Tech Stack :computer:
 
 <br>
-## 🛠️ Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
 | **Frontend** | Next.js, React, TypeScript, JavaScript, Tailwind CSS |
 | **Backend** | Node.js, Express, Python, FastAPI |
+| **Real-time** | Web Sockets, WebRTC, Socket.io |
 | **Databases** | PostgreSQL, MongoDB, Prisma ORM |
-| **AI/ML** | OpenAI API, Anthropic Claude API, LangChain |
-| **DevOps** | Docker, Docker Compose, GitHub Actions, AWS (EC2, S3, CloudFront) |
-| **Tools** | Git, VS Code, Postman, Turborepo |
+| **AI/ML** | OpenAI API, Gemini APIs |
+| **DevOps** | Docker, CI/CD, AWS |
 
-
-
- 
 
 ## My Certifications :arrow_down:
 
