@@ -14,6 +14,7 @@
  
 
 
+
 ## Tech Stack :computer:
 
 <br>
@@ -24,8 +25,9 @@
 | **Backend** | Node.js, Express, Python, FastAPI |
 | **Real-time** | Web Sockets, WebRTC, Socket.io |
 | **Databases** | PostgreSQL, MongoDB, Prisma ORM |
-| **AI/ML** | OpenAI API, Gemini APIs |
+| **AI/ML** | OpenAI API, Google Gemini API |
 | **DevOps** | Docker, CI/CD, AWS |
+
 
 
 ## My Certifications :arrow_down:
